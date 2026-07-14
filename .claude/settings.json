@@ -18,7 +18,16 @@
       "mcp__github__request_copilot_review",
       "Bash(git push:*main*)",
       "Bash(git push:*main)",
-      "Bash(git push:*:main*)"
+      "Bash(git push:*:main*)",
+      "Bash(gh api:*)",
+      "Bash(gh pr merge:*)",
+      "Bash(gh repo create:*)",
+      "Bash(gh repo delete:*)",
+      "Bash(gh repo fork:*)",
+      "Bash(gh workflow run:*)",
+      "Bash(gh run rerun:*)",
+      "Bash(gh release:*)",
+      "Bash(gh secret:*)"
     ]
   }
 }
