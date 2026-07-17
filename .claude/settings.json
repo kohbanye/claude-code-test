@@ -2,6 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "permissions": {
     "deny": [
+      "Read(.claude/settings.json)",
       "mcp__github__merge_pull_request",
       "mcp__github__enable_pr_auto_merge",
       "mcp__github__disable_pr_auto_merge",
